@@ -1,0 +1,8 @@
+<html t:type="layout" t:title="projet lamiduf" xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd">
+
+		<p>Gestion des Equipes</p>
+		
+		<table t:type="grid" t:source="equipes" t:pagerPosition="top" t:rowsPerPage="5">
+		</table>
+
+</html>

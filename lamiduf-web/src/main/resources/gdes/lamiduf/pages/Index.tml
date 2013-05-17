@@ -1,0 +1,5 @@
+<html t:type="layout" t:title="projet lamiduf" xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd">
+
+		<a t:type="pageLink" t:page="equipes">Gestion des Equipes</a>
+
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd" >
+<head>
+	<title>${title}</title>
+	<link href="${asset:context:static/css/lamiduf.css}" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+	<h1>Lamiduf Application</h1>
+
+	<t:body />
+
+	<p>Copyright &#169; 2013 Lamidud</p>
+</body>
+</html>
