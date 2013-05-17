@@ -1,0 +1,15 @@
+<!ELEMENT dataset (
+   (equipe)*)>
+
+<!ELEMENT equipe EMPTY>
+<!ATTLIST equipe
+    id CDATA #REQUIRED
+    dateCreation CDATA #IMPLIED
+    dateModification CDATA #IMPLIED
+    heureCreation CDATA #IMPLIED
+    heureModification CDATA #IMPLIED
+    nom CDATA #REQUIRED
+    responsable CDATA #IMPLIED
+    telResponsable CDATA #IMPLIED
+>
+
